@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Script Auto Backup",
+    "description": "Script untuk backup otomatis file ke cloud",
+    "language": "Bash",
+    "created_at": "2025-06-01"
+  },
+  {
+    "id": 2,
+    "name": "Script Cek Koneksi",
+    "description": "Ping otomatis dan log jika koneksi putus",
+    "language": "Python",
+    "created_at": "2025-06-01"
+  },
+  {
+    "id": 3,
+    "name": "Script Login Validasi",
+    "description": "Validasi user login dengan autentikasi token",
+    "language": "JavaScript",
+    "created_at": "2025-06-01"
+  }
+]
